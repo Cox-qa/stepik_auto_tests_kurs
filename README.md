@@ -8,3 +8,5 @@
 2. PyTest: Работа с PyTest
 
 3. different_language: Тесты с проверкой работы при нескольких языках
+
+4. final_project: Основной проект с реализацией тестирования для сайта http://selenium1py.pythonanywhere.com
